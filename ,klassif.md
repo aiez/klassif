@@ -43,7 +43,7 @@ make help
     konfig    http://tiny.cc/konfig   shared Makefile, dotfiles
     optimiz   http://tiny.cc/optimiz  optimization datasets
     regress   http://tiny.cc/regress  regression datasets
-    lull      http://tiny.cc/lull     code that reads these files
+    luamine   http://tiny.cc/luamine  code that reads these files
 
 ## LICENSE
 
