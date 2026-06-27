@@ -14,8 +14,6 @@ git clone https://github.com/aiez/klassif klassif && cd klassif
 make help
 ```
 
-<a href="https://github.com/aiez/klassif"><img width="150" align="right" alt="qr" src="https://tiny.cc/tiny/qr-image/tiny.cc~klassif~l~150.png"></a>
-
 **Sections:** [NAME](#name) | [DATA](#data) | [FILES](#files) | [SEE ALSO](#see-also) | [LICENSE](#license) | [AUTHOR](#author)
 
 ## NAME
