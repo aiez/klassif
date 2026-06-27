@@ -1,7 +1,7 @@
 <!-- Copyright (c) 2026 Tim Menzies, MIT License https://opensource.org/licenses/MIT -->
 <a href="https://timm.fyi"><img align="right" alt="Author" src="https://img.shields.io/badge/Author-timm-dc143c?logo=readme&logoColor=white"></a><img align="right" alt="Language" src="https://img.shields.io/badge/Language-CSV-000080?logo=files&logoColor=white"><img align="right" alt="License" src="https://img.shields.io/badge/License-MIT-32cd32?logo=open-source-initiative&logoColor=white"><img align="right" alt="Purpose" src="https://img.shields.io/badge/Purpose-Data·Classification-7b68ee?logo=githubcopilot&logoColor=white">
 
-### [http://tiny.cc/klassif](http://tiny.cc/klassif)
+### [https://github.com/aiez/klassif](https://github.com/aiez/klassif)
 Example classification datasets: 73 CSV files (anneal, audiology,
 COMPAS, diabetes, soybean, vote, ...) with self-describing
 headers — the klass column ends in '!', so no separate schema
@@ -9,12 +9,12 @@ files are needed. Data only, no code.
 
 ```bash
 # install
-git clone http://tiny.cc/konfig ../konfig
-git clone http://tiny.cc/klassif klassif && cd klassif
+git clone https://github.com/aiez/konfig ../konfig
+git clone https://github.com/aiez/klassif klassif && cd klassif
 make help
 ```
 
-<a href="http://tiny.cc/klassif"><img width="150" align="right" alt="qr" src="https://tiny.cc/tiny/qr-image/tiny.cc~klassif~l~150.png"></a>
+<a href="https://github.com/aiez/klassif"><img width="150" align="right" alt="qr" src="https://tiny.cc/tiny/qr-image/tiny.cc~klassif~l~150.png"></a>
 
 **Sections:** [NAME](#name) | [DATA](#data) | [FILES](#files) | [SEE ALSO](#see-also) | [LICENSE](#license) | [AUTHOR](#author)
 
@@ -44,10 +44,10 @@ make help
 
 ## SEE ALSO
 
-    konfig    http://tiny.cc/konfig   shared Makefile, dotfiles
-    optimiz   http://tiny.cc/optimiz  optimization datasets
+    konfig    https://github.com/aiez/konfig   shared Makefile, dotfiles
+    optimiz   https://github.com/aiez/optimiz  optimization datasets
     regress   http://tiny.cc/regress  regression datasets
-    luamine   http://tiny.cc/luamine  code that reads these files
+    luamine   https://github.com/aiez/luamine  code that reads these files
 
 ## LICENSE
 

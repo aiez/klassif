@@ -3,5 +3,5 @@
 | |/ / |/ _` / __/ __| | |_
 |   <| | (_| \__ \__ \ |  _|
 |_|\_\_|\__,_|___/___/_|_|
-classification benchmark csvs. http://tiny.cc/klassif
+classification benchmark csvs. https://github.com/aiez/klassif
 "the header is the schema."
